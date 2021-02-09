@@ -13,7 +13,15 @@ This project uses lot of stuff as:
 
 ## Getting Started
 
-First, run the development server:
+First, install project dependencies :
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Second, run the development server:
 
 ```bash
 npm run start
